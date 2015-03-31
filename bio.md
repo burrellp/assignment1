@@ -9,3 +9,15 @@ supported the school, but it is weird to now be attending OSU, even if it is jus
 ecampus student. I will always be a Duck. 
 
 #Programming Background
+Before starting this program, my experience was very limited. I took two intro level
+programming courses on Coursera that were in Python and made it through about half
+of the Codecademy course on Python. That was pretty much the extent of it before CS 161.
+
+It's hard to pick a favorite assignment from CS 161 and 162. 162 involved building
+several simple fantasy/text-adventure type games and that's not really my thing. I did
+enjoy working with a class hierarchy on those types of assigments though, especially
+on the final project when we had the freedom to design our own from scratch. I have
+grown to enjoy OOD/OOP.
+
+ 
+
