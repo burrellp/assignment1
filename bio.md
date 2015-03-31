@@ -8,6 +8,9 @@ the University of Oregon. As an Oregon native, I have always wished OSU well and
 supported the school, but it is weird to now be attending OSU, even if it is just as an 
 ecampus student. I will always be a Duck. 
 
+Third bio add: My dog's name is Zia, and she was rescued (by me) from a Navajo Reservation 
+in New Mexico where I taught for two years. She's objectively the best dog. 
+
 #Programming Background
 Before starting this program, my experience was very limited. I took two intro level
 programming courses on Coursera that were in Python and made it through about half
